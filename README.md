@@ -1,7 +1,3 @@
-Here's a Table of Contents (TOC) for statistics covering levels 1 to 7:
-
----
-
 **Table of Contents**
 
 1. **Introduction to Statistics**
